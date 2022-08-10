@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/jar/sc.jar;md5;b63e45664754f6ef2536428b857901c6",
+"spider":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/sc.jar;md5;b63e45664754f6ef2536428b857901c6",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vc2hhZG93Y2hpdS9zYy9yYXcvYnJhbmNoL21haW4vVFZCb3gvdHYvc2NsaXZlLnR4dA=="]}]}],
