@@ -67,7 +67,7 @@
 {"key":"csp_Nbys","name":"🗿泥巴(需海外线)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影院","name":"👶小宝影院(需海外线)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"if101资源","name":"ℹ️if101(需海外线)","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"csp_appys_美剧虫","name":"🐛美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+{"key":"csp_appys_美剧虫","name":"🐛美剧虫(V1)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/美剧虫.json"},
 {"key":"mjxq_spider","name":"🗽美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🤼两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_BBB" ,"name":"🅱️哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
