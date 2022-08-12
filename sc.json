@@ -18,7 +18,7 @@
 {"key":"csp_xpath_蚂蚁影视","name":"🐜蚂蚁影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/蚂蚁影视.json"},
 {"key":"茶杯狐","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXB2/茶杯狐.json"},
 {"key":"AB影院","name":"🐌AB影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXB2/AB影院.json"},
-{"key":"tootw","name":"🐌tootw","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXB2/tootw.json"},
+{"key":"csp_xpath_tootw","name":"🦋tootw","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/tootw.json"},
 {"key":"饭团HD","name":"🍙饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXB2/饭团HD.json"},
 {"key":"csp_biubiu_98播播网","name":"9️⃣98播播网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXB2/98播播网.json"},
 {"key":"csp_xpath_dandanzan10","name":"👍蛋蛋赞","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/dandanzan10.json"},
