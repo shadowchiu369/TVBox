@@ -1,7 +1,7 @@
 {
 "name": "旧梦影视",
 "url": "http://150.158.130.238:4433", 
-"User": "User-Agent:Dart/2.14 (dart:io)", "fenlei": "电影$/index.php/vod/show/id/1/page#电视剧$/index.php/vod/show/id/2/page#综艺$/index.php/vod/show/id/6/page#动漫$/index.php/vod/show/id/3/page#B站$/index.php/vod/show/id/4/page",
+"User": "User-Agent:Dart/2.14 (dart:io)", "fenlei": "国产剧$/index.php/vod/show/id/24/page/#港台剧$/index.php/vod/show/id/25/page/#日韩剧$/index.php/vod/show/id/26/page/#欧美剧$/index.php/vod/show/id/27/page/#综 艺$/index.php/vod/show/id/6/page/#动 漫$/index.php/vod/show/id/3/page/#B 站$/index.php/vod/show/id/4/page/#动作片$/index.php/vod/show/id/7/page/#喜剧片$/index.php/vod/show/id/8/page/#爱情片$/index.php/vod/show/id/9/page/#科幻片$/index.php/vod/show/id/10/page/#恐怖片$/index.php/vod/show/id/11/page/#剧情片$/index.php/vod/show/id/12/page/#战争片$/index.php/vod/show/id/13/page/",
 "houzhui": ".html",
 "shifouercijiequ": "1",
 "jiequqian": "class=\"module-main module-page",
