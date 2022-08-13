@@ -28,7 +28,7 @@
     // 首页推荐视频的id
     "homeVodId": "/a[contains(@class,'fed-list-pics')]/@href",
     // 二次处理正则
-    "homeVodIdR": "",
+    "homeVodIdR": "/voddetail/(\\S+).html",
     // 首页推荐视频的图片
     "homeVodImg": "/a[contains(@class,'fed-list-pics')]/@data-original",
     // 二次处理正则
