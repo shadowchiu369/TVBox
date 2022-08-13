@@ -25,10 +25,8 @@
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8 
 翡翠台,http://113.64.147.62:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.86:808/hls/67/index.m3u8 
-翡翠台,http://113.64.147.92:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.93:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.109:808/hls/67/index.m3u8 
-翡翠台,http://113.64.147.111:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.192:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.195:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.197:808/hls/67/index.m3u8 
@@ -36,7 +34,6 @@
 翡翠台,http://113.64.147.212:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.216:808/hls/67/index.m3u8 
 TVB星河,http://113.64.147.40:808/hls/135/index.m3u8 
-TVB星河,http://113.64.147.44:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.57:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.62:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.86:808/hls/135/index.m3u8 
