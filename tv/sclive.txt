@@ -79,6 +79,8 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
 华视新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=21 
+中天新闻,http://59.125.122.90:18513/http/192.168.1.9:8081/hls/78/80/ch63max.m3u8 
+中天新闻,http://104.192.80.27:9500/live.m3u8?c=2 
 中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
 卫视中文台,http://61.219.170.95:18522/hls/62/804/ch05.m3u8 
