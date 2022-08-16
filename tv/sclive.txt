@@ -76,7 +76,7 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8  
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
 华视新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=21 
 中天新闻,http://59.125.122.90:18513/http/192.168.1.9:8081/hls/78/80/ch63max.m3u8 
@@ -395,6 +395,7 @@ CCTV-4K 超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 CCTV-4K 超高清,http://39.135.55.72:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-4K 超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
 CCTV-4K 超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
+CCTV-8K,http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
 CCTV-8K,http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8 
 CCTV-8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8 
 CCTV-8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8 
