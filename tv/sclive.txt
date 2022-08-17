@@ -424,7 +424,6 @@ CCTV-8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 欢笑剧场4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8 
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
-恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=no
 Y+,http://live.aikan.miguvideo.com:80/PLTV/88888888/224/3221230226/index.m3u8
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
