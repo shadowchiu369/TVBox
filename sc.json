@@ -31,6 +31,7 @@
 {"key":"csp_Cokemv","name":"🥤Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3, 	"filterable":1,"quickSearch":1, 	"searchable":1,"ext":""},
 {"key":"csp_biubiu_乐猪影视","name":"🐷乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXB/乐猪影视.json"},
+{"key":"csp_Dy555","name":"5️⃣555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/555.jar"},
 {"key":"csp_555dy","name":"5️⃣555影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/555dy.json"},
 {"key":"csp_biubiu_555电影","name":"5️⃣555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXB2/555电影.json"},
 {"key":"csp_SP361","name":"3️⃣360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
