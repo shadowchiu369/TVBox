@@ -36,13 +36,16 @@ TVB星河,http://113.64.147.86:808/hls/135/index.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8 
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8 
 Pearl,http://120.84.96.75:808/hls/26/index.m3u8 
+Pearl,http://120.84.96.195:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.196:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.221:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.222:808/hls/26/index.m3u8 
 J2,http://120.84.96.75:808/hls/86/index.m3u8 
+J2,http://120.84.96.195:808/hls/86/index.m3u8 
 J2,http://120.84.96.196:808/hls/86/index.m3u8 
 J2,http://120.84.96.221:808/hls/86/index.m3u8 
 J2,http://120.84.96.222:808/hls/86/index.m3u8 
+星空卫视,http://120.84.96.75:808/hls/79/index.m3u8 
 星空卫视,http://120.84.96.195:808/hls/79/index.m3u8 
 星空卫视,http://120.84.96.196:808/hls/79/index.m3u8 
 星空卫视,http://120.84.96.221:808/hls/79/index.m3u8 
@@ -2072,7 +2075,7 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 斗鱼歌舞HD2,http://zzy789.xyz/douyu1.php?id=3763915
 斗鱼综艺HD,http://124.223.212.38:83/douyu/131977
 
-🈲  加密频道_204658110256,#genre# 
+🚫  加密频道_204658110256,#genre# 
 午夜1,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4003v105.m3u8_zase.jebes.kresnu.mac.tu
 午夜2,http://live.redtraffic.xyz:80/interracial.m3u8
 午夜3,http://live.redtraffic.xyz:80/bigtits.m3u8
