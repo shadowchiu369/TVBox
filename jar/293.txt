@@ -1,0 +1,18 @@
+{
+	"libv": "http://123.56.222.84:2025/iphones/libvio.php?url=",
+	"xxjx": "http://123.56.222.84:2025/iphones/xinxin.php?url=",
+	"zxzj": "http://123.56.222.84:2025/iphones/zxzj.php?url=",
+	"4kjx": "http://123.56.222.84:2025/iphones/100.php?url=",
+	"jsjx": "http://123.56.222.84:2025/iphones/100.php?url=",
+	"rrjx": "http://123.56.222.84:2025/iphones/400.php?url=",
+	"rxjx": "http://123.56.222.84:2025/iphones/rongxing.php?url=",
+	"zbjx": "http://123.56.222.84:2025/iphones/huya.php?id=",
+	"gqjx": "http://123.56.222.84:2025/iphones/100.php?url=",
+	"appid": "10000",
+	"version": "1.2.9",
+	"host": "123.56.222.84:2025",
+	"headers": {
+		"host": "123.56.222.84:2025",
+		"User-Agent": "shabijixumianfeizuotuiguang"	
+}
+}
