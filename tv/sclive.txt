@@ -92,10 +92,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻台,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
-台视新闻,https://epg.pm/stream/e3e908b3a9db0385d0af327e649962542feb341c4fb3b438e11cc4c6b6dfc4eb.m3u8
-台视新闻,https://epg.pm/stream/65359096614195a46e5b795083c53a30763f4a74de54d47a987ffabdf612d8a3.m3u8
 台视新闻,https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
-台视新闻,https://epg.pm/stream/8655006acfa3857ec51f6427fa2ea9ca167b38fc53ae84d1645bc0ce8b4060ba.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
 三立iNews,https://epg.pm/stream/17b9026c3c8b88f7d16f6cbbd7593d9d375fcb4ed6d796991d34ed84d280e61d.m3u8
 寰宇新闻台湾台,https://epg.pm/stream/4057a26433e36dbc3a39fd473ec099b70c118accf94777da98ad93480d9bcf4c.m3u8
@@ -106,8 +103,6 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天新闻,http://104.192.80.27:9500/live.m3u8?c=2 
 中天新闻,https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8 
 中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
-中视新闻,https://epg.pm/stream/95da0b8d824cb0867d73b6cf7fc88936483a58340d7dbd39ea64f51611bcf082.m3u8
-中视新闻,https://epg.pm/stream/042edc9371f4badf3247b42bc76da73fbf009079b8672ad6d431d2fb9d44a2b0.m3u8
 中视新闻,https://epg.pm/stream/3424fe5c5c950cf105fcff7c1e99bf9ab5ccbfa9da5f7fa7882416bcf619ac43.m3u8
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
 卫视中文台,http://61.219.170.95:18522/hls/62/804/ch05.m3u8 
@@ -126,7 +121,6 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天娱乐,http://61.219.170.95:18521/hls/67/809/ch26.m3u8 
 台视,http://61.219.170.95:18543/hls/72/814/ch46.m3u8 
 公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0 
-中视,https://epg.pm/stream/40460787c7eb633f0fb32b8a8a485ad7c250ae330e0874801f19d82085e67f17.m3u8
 大立电视,https://epg.pm/stream/3489c294464963bc8515c80045ef944126ffbd586979bd53df4b6944f6624fad.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 八大综合台,http://61.219.170.95:18517/hls/66/808/ch21.m3u8 
