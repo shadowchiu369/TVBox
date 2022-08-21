@@ -2252,17 +2252,16 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 斗鱼综艺HD,http://124.223.212.38:83/douyu/131977
 
 🚫  加密频道_204658110256,#genre# 
-午夜1,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4003v105.m3u8_zase.jebes.kresnu.mac.tu
-午夜2,http://live.redtraffic.xyz:80/interracial.m3u8
-午夜3,http://live.redtraffic.xyz:80/bigtits.m3u8
-午夜4,http://live.redtraffic.xyz:80/threesome.m3u8
-午夜5,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-午夜6,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-午夜7,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-午夜7,http://cdn.adultiptv.net/lesbian.m3u8
-午夜8,http://live.redtraffic.xyz:80/teen.m3u8
-午夜9,http://live.redtraffic.xyz:80/pornstar.m3u8
-午夜9,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-午夜10,http://live.redtraffic.xyz:80/milf.m3u8
-午夜10,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-午夜11,http://live.redtraffic.xyz:80/cuckold.m3u8
+午夜1,http://live.redtraffic.xyz:80/interracial.m3u8
+午夜2,http://live.redtraffic.xyz:80/bigtits.m3u8
+午夜3,http://live.redtraffic.xyz:80/threesome.m3u8
+午夜4,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+午夜5,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+午夜6,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+午夜6,http://cdn.adultiptv.net/lesbian.m3u8
+午夜7,http://live.redtraffic.xyz:80/teen.m3u8
+午夜8,http://live.redtraffic.xyz:80/pornstar.m3u8
+午夜8,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+午夜9,http://live.redtraffic.xyz:80/milf.m3u8
+午夜9,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+午夜10,http://live.redtraffic.xyz:80/cuckold.m3u8
