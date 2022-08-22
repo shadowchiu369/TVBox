@@ -12,6 +12,7 @@
 {"key":"csp_Kunyu77","name":"⛈️酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"🔭快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"🦅完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"北雁资源","name":"🦢北燕资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories": ["电影", "国产剧", "港台剧", "日韩剧", "欧美剧", "综艺", "动漫"]},
 {"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://shadowchiu369.github.io/TVBox/jar/zy.jar;md5;381a02b64a5bd9853369369c335b8018"},
 {"key":"csp_SP361","name":"3️⃣360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://shadowchiu369.github.io/TVBox/jar/zy.jar;md5;381a02b64a5bd9853369369c335b8018"},
