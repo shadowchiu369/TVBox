@@ -55,10 +55,10 @@
 {"key":"csp_biubiu_花猫TV","name":"😸花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/花猫TV.json"},
 {"key":"csp_biubiu_手机看剧","name":"📱手机看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/手机看剧.json"},
 {"key":"csp_xpath_xqmi","name":"🌟小强迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/xqmi.json"},
-{"key":"csp_Yiso","name":"🔬易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6","jar":"https://shadowchiu369.github.io/TVBox/jar/ts.jar;md5;acc9342e0488b454637854295249dfb1"},
-{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6","jar":"https://shadowchiu369.github.io/TVBox/jar/ts.jar;md5;acc9342e0488b454637854295249dfb1"},  
-{"key":"csp_AliPS","name":"📀盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6","jar":"https://shadowchiu369.github.io/TVBox/jar/ts.jar;md5;acc9342e0488b454637854295249dfb1"},
-{"key":"Zhaozy","name":"🕵️找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6","jar":"https://shadowchiu369.github.io/TVBox/jar/ts.jar;md5;acc9342e0488b454637854295249dfb1"},
+{"key":"csp_Yiso","name":"🔬易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6","jar":"https://shadowchiu369.github.io/TVBox/jar/ts.jar;md5;93916acff9fc42ea3a679a8209bb640b"},
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6","jar":"https://shadowchiu369.github.io/TVBox/jar/ts.jar;md5;93916acff9fc42ea3a679a8209bb640b"},  
+{"key":"csp_AliPS","name":"📀盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6","jar":"https://shadowchiu369.github.io/TVBox/jar/ts.jar;md5;93916acff9fc42ea3a679a8209bb640b"},
+{"key":"Zhaozy","name":"🕵️找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6","jar":"https://shadowchiu369.github.io/TVBox/jar/ts.jar;md5;93916acff9fc42ea3a679a8209bb640b"},
 {"key":"push_agent","name":"🚀推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}
 ],
 
