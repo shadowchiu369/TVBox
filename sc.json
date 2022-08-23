@@ -13,7 +13,7 @@
 {"key":"快看","name":"🔭快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"🦅完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"北雁资源","name":"🦢北燕资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories": ["电影", "国产剧", "港台剧", "日韩剧", "欧美剧", "综艺", "动漫"]},
-{"key":"爱看影视","name":"💗爱看影视(SP)","type":1,"api":"http://tvcms.ikan6.vip/api.php/gctvapi.vod","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":""},
+{"key":"爱看影视","name":"💗爱看影视(SP)","type":1,"api":"http://tvcms.ikan6.vip/api.php/gctvapi.vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_SP361","name":"3️⃣360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
