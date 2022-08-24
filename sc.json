@@ -1,7 +1,7 @@
 {
 // spider
 "spider":
-"https://shadowchiu369.github.io/TVBox/jar/sc.jar;md5;b62550b71feff1f0ffdc2fba843a244a",
+"https://shadowchiu369.github.io/TVBox/jar/sc.jar;md5;cc612af8228c0c3a7b0f41d391762fbe",
 
 // 直播
 "lives":
@@ -25,6 +25,7 @@
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3, 	"filterable":1,"quickSearch":1, 	"searchable":1,"ext":""},
 {"key":"追剧喵","name":"😾追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🛰看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"多多","name":"🌟多多资源(SP)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
 {"key":"csp_QQ","name":"🐧腾讯视频(官源)","type": 3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://shadowchiu369.github.io/TVBox/jar/gy.jar;md5;6c9d469988e4bb580898e7fd5bc3da2a"},
 {"key":"爱奇艺","name":"🥝爱奇艺(官源)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://shadowchiu369.github.io/TVBox/jar/gy.jar;md5;6c9d469988e4bb580898e7fd5bc3da2a"},
 {"key":"csp_MGTV","name":"🥭芒果TV(官源)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://shadowchiu369.github.io/TVBox/jar/gy.jar;md5;6c9d469988e4bb580898e7fd5bc3da2a"},
