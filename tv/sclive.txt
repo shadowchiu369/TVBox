@@ -1490,7 +1490,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 宿松新闻综合,http://112.30.194.221:20080/live/a8fd37c471fa46e18ec17b6ce4730eb7/hls.m3u8?zanhd
 桐城新闻,http://pili-live-hls.ahtc.tianma3600.com/ahtc/tcxw.m3u8?zanhd
 
-🍁  贵州,#genre#
+🌼  贵州,#genre#
 黔南一套,rtmp://tv.qntv.net/channellive/ch1?zguizd
 黔南二套,rtmp://tv.qntv.net/channellive/ch2?zguizd
 安顺新闻,https://player.juyun.tv/camera/64413134.m3u8?zguizd
@@ -2146,7 +2146,7 @@ EU超时任务,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5
 IHOT-Y+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 IHOT-Y+,http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8
 
-📽️  咪咕,#genre#
+💠  咪咕,#genre#
 古天乐,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
 成龙,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 张国荣,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
@@ -2164,7 +2164,7 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
 每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 
-🎞️  NewTV,#genre#
+💦  NewTV,#genre#
 超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
 超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
@@ -2196,7 +2196,7 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 中国功夫,http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
 中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
 
-💫  CIBN,#genre#
+💢  CIBN,#genre#
 古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
 经典剧场,http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8
 骄阳剧场,http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
