@@ -25,7 +25,7 @@
 {"key":"csp_LibVio","name":"🌊LibVio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch": 1,"filterable":1},
 {"key":"csp_Cokemv","name":"🥤Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQBiu_万能影视","name":"🔮万能视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/wnys(xyq).json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;c89663d674ec5994a2b1719b7d958326"},
-{"key":"csp_XYQBiu_99e","name":"9️⃣99e(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/99e.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;c89663d674ec5994a2b1719b7d958326"},
+{"key":"csp_XYQBiu_99e","name":"🍃e9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/99e.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;c89663d674ec5994a2b1719b7d958326"},
 {"key":"csp_xpath_tjyy","name":"🌀奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/huigutongying.json"},
 {"key":"csp_xpath_zxzj2","name":"🏡在线之家(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/zxzj2.json"},
 {"key":"csp_xpath_jbb","name":"⛄剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/jubaibai.json"},
