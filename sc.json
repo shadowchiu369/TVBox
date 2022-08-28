@@ -1,7 +1,7 @@
 {
 // spider
 "spider":
-"https://shadowchiu369.github.io/TVBox/jar/sc.jar;md5;08f2f5dff7946c401b0996cc98969f28",
+"https://shadowchiu369.github.io/TVBox/jar/sc.jar;md5;1c1482ff646cc40e1f924ebe320822bc",
 
 // 直播
 "lives":
@@ -20,13 +20,16 @@
 {"key":"csp_DiDuan","name":"📼低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":0,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🛰看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"追剧喵","name":"😾追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"追剧喵","name":"😼追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LibVio","name":"🌊LibVio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch": 1,"filterable":1},
 {"key":"csp_Cokemv","name":"🥤Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XYQBiu_万能影视","name":"🔮万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;8b3f5374203dab31865e0064314cb4d6"},
-{"key":"csp_XYQBiu_99e","name":"🍃e9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;8b3f5374203dab31865e0064314cb4d6"},
-{"key":"csp_XYQBiu_凌云影视","name":"🌥凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/凌云影视.json","jar":"https://shadowchiu369.github.io/TVBox/jar/XYQBiu.jar;md5;8b3f5374203dab31865e0064314cb4d6"},
+{"key":"csp_XYQBiu_万能影视","name":"🔮万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json"},
+{"key":"csp_XYQBiu_99e","name":"🍃e9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json"},
+{"key":"csp_XYQBiu_凌云影视","name":"🌥凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/凌云影视.json"},
+{"key":"csp_QQ","name":"🐧腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"},
+{"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"},
+{"key":"csp_MGTV","name":"🥭芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"},
 {"key":"csp_xpath_tjyy","name":"🌀奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/huigutongying.json"},
 {"key":"csp_xpath_zxzj2","name":"🏡在线之家(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/zxzj2.json"},
 {"key":"csp_xpath_jbb","name":"⛄剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/jubaibai.json"},
@@ -48,7 +51,7 @@
 {"key":"csp_biubiu_31看影视","name":"3️⃣31看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/31看影视.json"},
 {"key":"csp_biubiu_87影院","name":"8️⃣87影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/87影院.json"},
 {"key":"csp_biubiu_北川影视","name":"🏔️北川影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/北川影视.json"},
-{"key":"csp_biubiu_花猫TV","name":"😸花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/花猫TV.json"},
+{"key":"csp_biubiu_花猫TV","name":"😽花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/花猫TV.json"},
 {"key":"csp_biubiu_手机看剧","name":"📱手机看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/手机看剧.json"},
 {"key":"csp_biubiu_小强迷","name":"🌟小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/小强迷.json"},
 {"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
