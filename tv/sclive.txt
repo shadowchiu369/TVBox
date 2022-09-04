@@ -1,75 +1,3 @@
-测试,#genre#
-东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8 
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8 
-東森綜合[1920•1080],http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8 
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8 
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8 
-好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8 
-好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
- 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
- 三立綜合[1280•720],http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b 
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8 
-中視經典[1280•720],http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0 
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
-80後音樂台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8 
-大立DALI,http://www.dalitv.com.tw:4568/live/dali/index.m3u8 
-東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234 
-東森幼幼台-02,https://git.io/JgYON 
-動感音樂台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8 
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8 
-非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378 
-公視-01,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0 
-公視-02,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4 
-古典音樂台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8 
-海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8 
-華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34 
-靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c 
-鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268 
-龍華偶像-02,https://epg.pm/stream/42cd2e4edd2468418652e234538405cd73fe2c8d4cb992d98ff35b2212b5f460.m3u8 
-龍華偶像-03,https://epg.pm/stream/c4b865c3c21cc0c5e4f81ccd5803ba27da2725789c2668d0012731a51845559b.m3u8 
-龍華偶像-04,https://epg.pm/stream/aa1346690dc5dfe3d48610abe2f69f9b055b26a6fa00f28be58f9a5793585271.m3u8 
-龍華偶像-05,https://epg.pm/stream/d4800d62e279d9da23b75b026e4aae7bf17119b7c9f26ba3ddc8198479bb80d8.m3u8 
-龍華戲劇-02,https://epg.pm/stream/a1fda790830938b2487b30e3b9b9d2676ad2939e310a161b3113db496e8fd954.m3u8 
-龍華戲劇-03,https://epg.pm/stream/ab79e3ed982c587c80bd6cf653bfadfcb77f477f486dd4b5909262473ca86660.m3u8 
-龍華戲劇-04,https://epg.pm/stream/aaa2f0ee9f1d0bdb0f6820cb48ecb51ba91d02d88754c42e6b0965fed5e624dc.m3u8 
-龍華戲劇-05,https://epg.pm/stream/34d369283cd9ff70ec59e70e6065f62d506bf5849547ca5557cff8bf4215090b.m3u8 
-美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8 
-民視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31 
-南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8 
-年代新聞台,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd 
-三立台灣台,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623 
-三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59  
-衛視電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
-舞迷心竅,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8 
-孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8 
-心靈音樂館,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8 
-搖滾天空台,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8 
-壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8 
-原住民電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F 
-智林體育台-01,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8 
-中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv 
-中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv 
-中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv 
-中視經典台-01,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0 
-中視經典台-02,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841 
-中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33 
-中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8 
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8 
-中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30 AsiaFM 
-亞洲經典台,http://goldfm.cn:8000/goldfm AsiaFM 
-亞洲音樂台,http://asiafm.hk:8000/asiafm AsiaFM 
-HD音樂台,http://asiafm.hk:8000/asiahd 
-CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6 Discovery Asia-01,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715 Discovery Asia-02,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e 
-EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8 ELEVEN 1-01,rtmp://59.124.75.138:1935/sat/tv731 
-時尚頻道,https://juyunlive.juyun.tv/live/24950198.m3u8 Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8 
-New Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3 
-News98新聞台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ 
-News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8 
-TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-
 🗼  港•澳•台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
@@ -184,6 +112,8 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天新闻,http://104.192.80.27:9500/live.m3u8?c=2 
 中天新闻,https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8 
 中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
+非凡新闻,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378 
+年代新闻台,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd 
 中视新闻,https://epg.pm/stream/3424fe5c5c950cf105fcff7c1e99bf9ab5ccbfa9da5f7fa7882416bcf619ac43.m3u8
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
 卫视中文台,http://61.219.170.95:18522/hls/62/804/ch05.m3u8 
@@ -193,20 +123,25 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 卫视电影台,http://61.219.170.95:18529/hls/62/804/ch07.m3u8 
 星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
 星卫娱乐台,http://59.125.122.90:18555/http/192.168.1.9:8078/hls/24/80/ch04.m3u8 
-纬来戏剧,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8 
-纬来戏剧,http://61.219.170.95:18557/hls/69/811/ch33.m3u8 
+靖天卡通台,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c 
 东森电影,http://171.108.239.96:8181/tsfile/live/1010_1.m3u8 
 东森电影,http://120.84.96.195:808/hls/32/index.m3u8 
 东森超视,http://61.219.170.95:18555/hls/64/806/ch14.m3u8 
 年代MUCH,http://61.219.170.95:18558/hls/72/814/ch45.m3u8 
 中天综合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2 
 中天娱乐,http://61.219.170.95:18521/hls/67/809/ch26.m3u8 
+中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8? 
 台视,http://61.219.170.95:18543/hls/72/814/ch46.m3u8 
 公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0 
+公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4 
 大立电视,https://epg.pm/stream/3489c294464963bc8515c80045ef944126ffbd586979bd53df4b6944f6624fad.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 八大综合台,http://61.219.170.95:18517/hls/66/808/ch21.m3u8 
 八大第1台,http://61.219.170.95:18539/hls/66/808/ch22.m3u8 
+三立戏剧台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59 
+三立综合台,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8? 
+纬来戏剧,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8 
+纬来戏剧,http://61.219.170.95:18557/hls/69/811/ch33.m3u8 
 纬来综合,http://61.219.170.95:18540/hls/68/810/ch32.m3u8 
 纬来戏剧,http://59.125.122.90:18557/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8 
 纬来戏剧,http://59.125.122.90:18557/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
@@ -215,6 +150,9 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 龙华电影,http://61.219.170.95:18574/hls/210/10014/cstv14.m3u8 
 龙祥时代,http://120.84.96.195:808/hls/35/index.m3u8 
 龙祥时代,http://171.108.239.96:8181/tsfile/live/1011_1.m3u8 
+原住民电视台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F 
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8 
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8 
 
 ⚛️  央视,#genre#
 CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
