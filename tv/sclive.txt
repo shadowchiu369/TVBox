@@ -278,7 +278,7 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
 
-⚡  IPV6,#genre#
+🪄  IPV6,#genre#
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225618/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225630/2/index.m3u8
@@ -502,10 +502,8 @@ CCTV央视台球,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/
 中央新影发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
-凤凰卫视资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰卫视中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 
-🦚  4K专区,#genre#
+🎞  4K专区,#genre#
 CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8  
 CCTV-4K 超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8 
 CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
@@ -570,7 +568,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 
-🏀⛹️  体育,#genre#
+🏂  体育,#genre#
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
@@ -582,7 +580,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 
-🌸  埋堆堆,#genre#
+🏖  埋堆堆,#genre#
 埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
 埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
 埋堆堆3,http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
@@ -654,7 +652,7 @@ EU超时任务,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5
 楚留香,http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
 斗气一族,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
 
-💦  NewTV,#genre#
+🎣  NewTV,#genre#
 超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
 超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
