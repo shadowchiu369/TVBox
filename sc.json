@@ -30,6 +30,7 @@
 {"key":"追剧喵","name":"😾追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LibVio","name":"🌊LibVio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch": 1,"filterable":1},
+{"key":"csp_jihuang","name":"🌪剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💗爱看(SP)","type": 3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"3️⃣3E电影(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🐧腾讯视频(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
