@@ -3,6 +3,7 @@
     "author": "香雅情",
     "UserAgent":"",
     "firstpage": "1",
+    "homeContent":"1",
     "class_url": "https://juhuang.tv/type/{cateId}_type_{catePg}.html[firstPage=https://juhuang.tv/type/{cateId}_type.html]",
     "class_name": "剧集&电影&综艺&动漫&纪录片&Youtube精选",
     "class_value": "2&1&3&4&21&28",
