@@ -47,9 +47,6 @@ Pearl,http://120.84.96.222:808/hls/26/index.m3u8
 财经体育资讯台,http://120.84.96.63:808/hls/86/index.m3u8 
 财经体育资讯台,http://120.84.96.71:808/hls/86/index.m3u8 
 财经体育资讯台,http://120.84.96.74:808/hls/86/index.m3u8 
-J2,http://120.84.96.62:808/hls/86/index.m3u8 
-J2,http://120.84.96.71:808/hls/86/index.m3u8 
-J2,http://120.84.96.78:808/hls/86/index.m3u8 
 J2,http://120.84.96.196:808/hls/86/index.m3u8 
 J2,http://120.84.96.211:808/hls/86/index.m3u8 
 J2,http://120.84.96.215:808/hls/86/index.m3u8 
