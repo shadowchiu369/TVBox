@@ -73,7 +73,6 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"爱酷","type":1,"url":"https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="},
-{"name":"扶风","type":1,"url":"https://global-cloud.byteamone.cn/cloud/flv/e4f53875c780bcf89b2dbc963cd97ed9/d91a6c1500e1613ac4989799224e7fe4/631aa764d7628.m3u8?auth_key=1662691172.8822-1-407403016.info-internet-2-llq-7f6e3b0a95351267d01e140aaca2b2cb","From":"vip.byteamone.cn","From_Url":"http://www.iqiyi.com/v_1ibls0y62a0.html","type":"video","msg":"success"},
 {"name":"OKjx","type":0,"url":"https://okjx.cc/?url="},
 {"name":"解析1","type":0,"url":"http://api.wpsseo.cn/?v="},
 {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
