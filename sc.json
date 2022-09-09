@@ -60,7 +60,7 @@
 {"key":"VIP7","name":"👑V7(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11o128","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP8","name":"👑V8(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11p256","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Alist","name":"🧾Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"},
-{"key":"t4public","name":"💥公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yiso","name":"🔬易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},  
 {"key":"csp_AliPS","name":"🧭盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
