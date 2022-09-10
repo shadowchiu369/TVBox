@@ -60,6 +60,7 @@ J2,http://120.84.96.222:808/hls/86/index.m3u8
 星空卫视,http://120.84.96.215:808/hls/79/index.m3u8 
 星空卫视,http://120.84.96.221:808/hls/79/index.m3u8 
 星空卫视,http://120.84.96.222:808/hls/79/index.m3u8 
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8 
 HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8 
