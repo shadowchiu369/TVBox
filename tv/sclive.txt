@@ -22,13 +22,12 @@
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
-香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8 
 翡翠台,http://113.64.147.72:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.86:808/hls/67/index.m3u8 
-翡翠台,http://113.64.147.104:808/hls/67/index.m3u8 
+翡翠台,http://113.64.147.97:808/hls/67/index.m3u8 
 TVB星河,http://113.64.147.72:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.86:808/hls/135/index.m3u8 
-TVB星河,http://113.64.147.104:808/hls/135/index.m3u8 
+TVB星河,http://113.64.147.97:808/hls/135/index.m3u8 
 tvb影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8 
 功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8  
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8 
