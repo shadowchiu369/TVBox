@@ -1,5 +1,5 @@
 {
-// spider
+// jar
 "spider":
 "https://shadowchiu369.github.io/TVBox/jar/sc.jar;md5;58e7dde0c3dcb6f2d42d58b7f237b5cd",
 
@@ -7,6 +7,7 @@
 "lives":
 [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFkb3djaGl1MzY5LmdpdGh1Yi5pby9UVkJveC90di9zY2xpdmUudHh0"]}]}],
 
+// 站源
 "sites":
 [{"key":"Lezhu_spider","name":"🐷乐猪影视〔SP〕","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"APPTT","name":"🎨图图〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
@@ -53,6 +54,7 @@
 {"key":"Zhaozy","name":"🕵️找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
 {"key":"push_agent","name":"🚀推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}],
 
+// 解析
 "parses":
 [{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
@@ -67,8 +69,10 @@
 {"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url=","mobile":1}
 ],
 
+// 域名
 "flags":["youku","qq","iqiyi","qiyi","letv", "sohu","letv","tudou","pptv","mgtv","wasu","bilibili","leduo","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺"],
 
+// 解码
 "ijk":
 [{"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
@@ -105,6 +109,7 @@
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 
+// 广告屏蔽
 "ads":
 ["mimg.0c1q0l.cn",
 "www.googletagmanager.com",
