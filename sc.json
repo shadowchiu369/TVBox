@@ -5,7 +5,7 @@
 
 // 直播
 "lives":
-[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFkb3djaGl1MzY5LmdpdGh1Yi5pby9UVkJveC90di9zY2xpdmUudHh0"]}],
+[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFb3djaGl1MzY5LmdpGh1Yi5pby9UVkJveC90di9zY2xpdmUdHh0"]}],
 
 // 站源
 "sites":
