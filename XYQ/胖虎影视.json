@@ -1,0 +1,20 @@
+{
+
+  "分类":"电影$1#剧集$2#综艺$3#动漫$4",
+  "分类url":"http://www.panghuys.com/vodshow/{cateId}/page/{catePg}.html",
+
+  "副标题":"module-item-note\">&&</div>",
+
+  "线路数组":"data-dropdown-value=&&</div>",
+  "线路标题":"<span>&&</small>",
+
+  "状态":"更新：&&</div>",
+  "导演":"导演：&&</div>",
+  "主演":"主演：&&</div>",
+  "简介":"<p>&&</p>",
+
+  "播放数组":"<div class=\"module-play-list\">&&</div>",
+
+  "免嗅":"1"
+
+}
