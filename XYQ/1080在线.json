@@ -1,13 +1,14 @@
 {
-  "作者": "菜妮丝",
+  "作者": "菜妮丝https://cainisi.cf",
   "站名": "1080在线",
   "主页url": "https://1080zx.com",
+  "免嗅": "1",
   
   "分类": "电影$1#剧集$2#动漫$4#综艺$3",
   "分类url": "https://1080zx.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html",
   
   "副标题": "text-right\">&&</span>",
-  
+  "搜索url":"https://1080zx.com/search/-------------.html?wd={wd}&submit=",
   "搜索后缀":"/detail/",
   
   "导演": "导演：&&</p>",
