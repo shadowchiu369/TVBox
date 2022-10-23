@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
 "站名":"大米星球",
-"主页url":"https://www.dmxq.me/",
+"主页url":"https://dami2.me/",
 "热门推荐":"1",
 "二次截取":"class=\"module-items&&<div class=\"fixedGroup",
 "数组":"<a&&module-poster-item-info",
@@ -22,13 +22,13 @@
 "状态":"备注：&&</div>",
 "导演":"导演：&&</div>",
 "主演":"主演：&&</div>",
-"简介":"n-content\"><p>&&</p>",
+"简介":"<p&&</p>",
 "播放列表":"<a&&/a>",
 "播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
-"分类":"电影$20#电视剧$21#动漫$22#综艺$23#",
-"分类url":"https://www.dmxq.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类":"电影$20#电视剧$21#综艺$22#动漫$23#福利$35",
+"分类url":"https://dami2.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}pjax/YES.html",
 "筛选":{
 "20":[
 {
